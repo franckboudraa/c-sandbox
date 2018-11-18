@@ -1,0 +1,4 @@
+# Ignore everything in a root
+/*
+# But not files with extension located in a root
+!/*.*
